@@ -1,4 +1,4 @@
-Practice-Exercises
+Python-Problem-Sets
 ==================
 
-Various programming exercises for practice.
+Various computer science problem sets.
